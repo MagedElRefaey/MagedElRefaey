@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdeen ElRefaey and I'm a Full Stack Developer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Abdeen ElRefaey, and I'm a Full Stack Developer from Egypt</h2>
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dxc2V3b2FxeXBkdnAwbHNpYmw2dW83MTJtdHZ3MnZwanFrYzljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ Y3Q9Zw/62PP2yEIAZF6g/giphy.gif"  />
 
